@@ -7,12 +7,12 @@
 body {
     height: 100vh;
     display: flex;
-    background-color: rgb(188, 248, 228);
+    background-color: rgb(138, 114, 8);
 }
 
-.memory-game {
-    height: 640px;
-    width: 640px;
+.Hary-Potter-memory-game {
+    height: 750px;
+    width: 750px;
     margin: auto;
     display: flex;
     flex-wrap: wrap;
@@ -20,11 +20,11 @@ body {
 }
 
 .card {
-    height: calc( 33.333% - 10px);
+    height: calc( 33.333% - 20px);
     width: calc(25% - 10px);
-    margin: 5px;
+    margin: 3px;
     position: relative;
-    box-shadow: 1px 1px 1px rgba(0,0,0,.3);
+    box-shadow: 1px 1px 1px rgba(75, 3, 3, 0.3);
     cursor: pointer;
     transform: scale(1);
     transform-style: preserve-3d; /* adiciona perspectiva 3d, para que o elemento nao fique achatada no plano */
@@ -43,7 +43,7 @@ body {
   padding: 20px;
   position: absolute;
   border-radius: 5px;
-  background: rgb(92, 187, 182);
+  background: rgb(101, 22, 33);
   backface-visibility: hidden; /* todo elemento tem uma frente e um verso (ao contrario, como um espelho.) essa propriedade retira o verso */
 }
 
