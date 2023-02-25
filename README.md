@@ -1,8 +1,8 @@
-# Oi, tudo bem? Chegou aqui através do curso, certo? 🙃
+# Oi, tudo bem? Readaptei para a versão de Harry Potter esse projetinho de jogo da memória que encontrei no site da DIO.
 
-Esse é o repositório da nossa aula de Javascript, na qual vamos fazer um jogo da memória com a temática de Super Mario! 
+Aqui estou usando o básico de HTML, CSS e JavaScript.
 
-### Os requisitos são:
+### Fontes:
 
 * [HTML básico](https://www.w3schools.com/html/)
 * [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
@@ -10,4 +10,4 @@ Esse é o repositório da nossa aula de Javascript, na qual vamos fazer um jogo 
  
 
 
-## 🚀 Let's code! 🚀
+## VQV 🚀
